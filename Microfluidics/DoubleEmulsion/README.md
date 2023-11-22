@@ -8,23 +8,23 @@ I designed a series of microfluidic devices in SOLIDWORKS for use in microsphere
 #### Project Details
 
 <div align="center">
-<img width="300" alt="" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/c228d850-d96d-4fba-b2a2-61046d0f6b47">
-<img width="300" alt="" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/4b27d29a-2db9-44f1-b345-c53d2ff5d156">
+<img width="300" alt="" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/DoubleEmulsion/imgs/1.png">
+<img width="300" alt="" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/DoubleEmulsion/imgs/2.png">
 <div align="center">a. Positive molds for two different designs of microfluidic devices
 </div>
   
 <div align="center">
-<img width="258" alt="image" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/74dc78ca-094a-4c68-b02c-e53eb76e2bcb">
+<img width="258" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/DoubleEmulsion/imgs/3.png">
 <div align="center">b. Designs from (a) microfabricated on silicon wafers </div>
 
 
-<div align="center"><img width="500" alt="image" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/fb97c07a-21d9-44fa-9aae-88f7452c6f78">
+<div align="center"><img width="500" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/DoubleEmulsion/imgs/4.png">
 </div>
 <div align="center">c. 10x magnification brightfield image of double emulsion microparticles being formed in custom flow focusing device
 
 
 <div align="center">
-<img width="300" alt="" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/b1f90d37-ad0a-47a0-8af1-233c77593a4e">
+<img width="300" alt="" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/DoubleEmulsion/imgs/5.png">
 <div align="center">d. Flow focusing chip set up in laboratory for double emulsion preparation</div>
 
 

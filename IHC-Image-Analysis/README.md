@@ -10,8 +10,8 @@ The script was designed to:
 - **Improve Accuracy**: Increase precision in quantifying and categorizing fluorescent markers.
 
 ## Example: Human Pancreatic Beta Cells - PDX-1 staining (marker of insulin expression) 
-<img width="241" alt="image" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/b56cb649-6407-428a-ba51-4abcc52d9b15">
-<img width="241" alt="image" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/7e1b0301-2ab4-4c24-b710-33277cfc124b">
+<img width="241" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/IHC-Image-Analysis/imgs/1.png">
+<img width="241" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/IHC-Image-Analysis/imgs/2.png">
 
 ## Source Code
 [ImmunoAnalysis.Java](https://github.com/jwhitlow5/Portfolio_JW/blob/master/IHC-Image-Analysis/ImmunoAnalysis.java)

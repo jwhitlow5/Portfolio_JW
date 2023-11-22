@@ -12,7 +12,7 @@ This project demonstrates the development of a custom-built CO2 incubator for st
 [Remote-Controlled 3D Porous Magnetic Interface toward High-Throughput Dynamic 3D Cell Culture](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.1c00459)
 
 ## Example - GFP-positive Human Adipose Stem Cells (after 2 weeks of culture in incubator)
-<img width="300" alt="image" src="https://github.com/jwhitlow5/jw_eng/assets/9408895/172dcbb8-927f-4be5-9a98-da202c6840d1">
+<img width="300" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Incubator/imgs/1.png">
 
 ## Materials List
 1. **Raspberry Pi 4**:  [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
