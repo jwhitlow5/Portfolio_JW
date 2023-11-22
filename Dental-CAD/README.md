@@ -5,7 +5,7 @@
 Pre-operative cone beam CT scan (DICOM image used in implant design)
 </p>
 <p align="center">
-<img width="300" alt="cbct-postop" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Dental-CAD/imgs/3.png">
+<img width="300" alt="cbct-postop" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Dental-CAD/imgs/2.png">
 <p align="center">Post-operative cone beam CT scan (procedure using two different types of surgical guides)
 
 <p align="center"><img width="300" alt="3d-printed-guide" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Dental-CAD/imgs/3.png">
