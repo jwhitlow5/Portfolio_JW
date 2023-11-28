@@ -9,7 +9,7 @@ The challenge of creating double emulsion microspheres involves achieving precis
 ## Custom-Built Microscope for Real-Time Analysis: 
 I built a high speed video microscope for acquiring brightfield images of the microspheres at the outlet of the microchannel and captured and processed image data with OpenCV on a Raspberry Pi 4. The use of OpenCV for image segmentation enabled real time analysis of size distribution of microsphere produced in the microchannel. The outcome was a significant enhancement in efficiency, enabling on-the-fly adjustments without the need to pause and manually inspect under a standard microscope.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/Microscopy/imgs/2.png">
+<p align="center"><img width="600" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/Microscopy/imgs/2.jpg">
 
 
 <p align="center"><img width="600" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/Microscopy/imgs/3.png">
