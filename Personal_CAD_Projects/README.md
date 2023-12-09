@@ -24,8 +24,7 @@ Below is a collection of some of the models I've designed for hobby projects usi
   
 <div align="center">
 <img width="300" alt="" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Personal_CAD_Projects/imgs/5.png">
-  
-<div align="center">Model of my dog, digitally sculpted in Blender
+<div align="center">Model of my dog, digitally sculpted in Blender</div>
 
 
 <img width="300" alt="" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Personal_CAD_Projects/OpenSCAD/Parametric_hinge1.png">
