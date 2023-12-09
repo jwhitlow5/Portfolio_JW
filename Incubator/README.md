@@ -1,17 +1,17 @@
 # Custom-Built CO2 Incubator Project Overview
 
 ## Project Description
-This project demonstrates the development of a custom-built CO2 incubator for studying the effects of electromagnetic fields on stem cell culture.  Designed for accurate temperature and CO2 level regulation, it's ideal for a range of biological and chemical experiments. [Source Code](https://github.com/jwhitlow5/Portfolio_JW/tree/master/Incubator/src/)
+I built a CO2-regulated stem cell culture incubator from scratch to facilitate a body of research on the effects of electromagnetic fields on stem cell growth. By developing a custom incubator, I was able to mount electromagnets and a brightfield microscope inside the incubator. I sourced the components individually and wrote the control loops regulating temperature, CO2, humidity, and O2 in Python. The code runs on a Raspberry Pi and uploads data to a cloud-based data logging platform for remote monitoring of incubator performance. [Source Code](https://github.com/jwhitlow5/Portfolio_JW/tree/master/Incubator/src/)
 
 ## Key Features
-- **Temperature and Humidity Control**: Utilizes an SHT31-based Grove temperature and humidity sensor for precise monitoring.
-- **CO2 Regulation**: Features a high-accuracy NDIR CO2 sensor for meticulous CO2 level maintenance, with controlled gas release.
-- **Automated Control**: The incubator's environment is managed through a Python script on the Raspberry Pi 4, ensuring precise and user-friendly operation.
+- **Temperature and Humidity Control**: Two SHT31 sensors are used to monitor temperature and humidity
+- **CO2 Regulation**: An NDIR CO2 sensor measures the C02 concentration in ppm and the script controls a solenoid valve to regulate gas flow
+- **Automated Control**: Data collection is done automatically and uploaded online from a Raspberry Pi 4. Additionally, electromagnets can be controlled with the Raspberry Pi, so the script can produce oscillating high frequency electromagnetic fields to influence cell growth.
   
 ## Usage in Research
 [Remote-Controlled 3D Porous Magnetic Interface toward High-Throughput Dynamic 3D Cell Culture](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.1c00459)
 
-## Example - GFP-positive Human Adipose Stem Cells (after 2 weeks of culture in incubator)
+## Example - GFP-positive Human Adipose Stem Cells Grown and Imaged Inside Custom-Built Incubator
 <img width="300" alt="image" src="https://github.com/jwhitlow5/Portfolio_JW/blob/master/Incubator/imgs/1.png">
 
 ## Materials List
@@ -25,9 +25,7 @@ This project demonstrates the development of a custom-built CO2 incubator for st
 8. **IRF520 MOSFETs**: Switches for heavy loads like heaters and solenoids.
 
 ## Functionality
-- The Python script dynamically adjusts temperature and CO2 levels based on sensor readings, controlling the PTC heater and solenoid valve via IRF520 MOSFETs.
+- The Python script dynamically adjusts temperature and CO2 levels based on sensor readings, controlling the PTC heater and solenoid valve via IRF520 MOSFETs. Data is uploaded to Thingspeak, a cloud-based logging service, so incubator conditions can be monitored remotely. Experiments with oscillating electromagnetic fields can be automated with Python scripts,
 
-## Applications
-- Suitable for cell culture in biological research and specialized chemical processes requiring controlled atmospheric and temperature conditions.
 
  
