@@ -1,7 +1,7 @@
-# Engineering Portfolio - Jon Whitlow
+# Engineering Projects - Jon Whitlow
 
 ## Summary
-Motivated biomedical engineering professional with a Masters degree in Bioengineering and a Bachelors in Chemical Engineering from the University of Kansas. I have expertise in biomaterials R&D, software development for image and statistical analysis, and CAD modeling of biomedical devices.
+Motivated chemical engineering professional with a Masters degree in Bioengineering and a Bachelors in Chemical Engineering from the University of Kansas. I have expertise in biomaterials R&D, software development for image and statistical analysis, and CAD modeling of medical devices, as evidenced by my publication history and design work. My career interests are in product design and development of biomedical devices.
 
 ## Education
 - **Master of Science in Bioengineering**, University of Kansas, 2018
@@ -31,11 +31,14 @@ Motivated biomedical engineering professional with a Masters degree in Bioengine
    - b. [Quantitative Microscopic Analysis of Microfluidic Cells](https://github.com/jwhitlow5/Portfolio_JW/blob/master/Microfluidics/Microscopy/README.md)
 3. [**Automated Analysis of Immunohistochemistry Data**](https://github.com/jwhitlow5/Portfolio_JW/tree/master/IHC-Image-Analysis/README.md)
 4. [**CO2 Incubator for Mammalian Cell Culture**](https://github.com/jwhitlow5/Portfolio_JW/tree/master/Incubator/README.md)
+5. [**Personal CAD Designs**](https://github.com/jwhitlow5/Portfolio_JW/tree/master/Personal_CAD_Projects/README.md)
+6. [**Fourier Ptychography Microscope**](https://github.com/jwhitlow5/Portfolio_JW/tree/master/FPM/README.md)
+7. [**Publications**](https://github.com/jwhitlow5/Portfolio_JW/tree/master/Publications/README.md)
 
 ## Skills
 - **Research**: Design of Experiments, Data analysis in Python and R, Technical writing, Material Characterization, Process Control
 - **Modeling**: Proficient in Fusion 360, SOLIDWORKS, OpenSCAD, 3shape, and COMSOL.
-- **Programming**: Proficient in Python, Java, and C.
+- **Programming**: Proficient in Python, Java, Javascript, QML, and C++.
 
 
 ## Contact Information
